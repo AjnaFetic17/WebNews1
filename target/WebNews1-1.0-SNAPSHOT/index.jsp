@@ -28,7 +28,7 @@
                             </div>
                         </a> 
                         <span class="tooltiptext1">
-                            Registracija...
+                            Registration...
                         </span>               
                     </div>
                     <div class="tooltip2">
@@ -38,13 +38,13 @@
                                 <i class="fa-solid fa-ghost"></i> 
                             </div>
                         </a>
-                        <span class="tooltiptext2">Nastavi kao gost...</span>
+                        <span class="tooltiptext2">Continue as guest...</span>
                     </div>
 
                 </div>
                 <div class="form-container">
                     <p>
-                        ili koristite vaš račun
+                        or use your account
                     </p>
                     <form action="Login" method="post" autocomplete="off">
                         <input type="text" name="email" value="${user.email}" placeholder="Email" required> 
